@@ -1,17 +1,30 @@
-# calendario_lab
+# Calendario - Laboratorio Flutter
 
-A new Flutter project.
+Diseño visual de un calendario desarrollado en Flutter, usando principalmente los widgets `Row` y `Column`.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+Este proyecto muestra el diseño de un calendario mensual con estilo oscuro y elegante, inspirado en un formato editorial. Incluye:
 
-A few resources to get you started if this is your first Flutter project:
+- Encabezado con el mes y año.
+- Días de la semana y cuadrícula completa del mes.
+- Día actual resaltado.
+- Un día destacado.
+- Tres eventos visuales de ejemplo.
+- Barra de navegación inferior decorativa.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Tecnologías
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+
+## Ejecución
+
+Este proyecto está pensado para ejecutarse en Flutter Web:
+
+flutter run -d chrome
+
+
+## Nota
+
+Este laboratorio evalúa únicamente el diseño visual. No incluye funcionalidad real (no hay navegación entre meses ni registro de eventos).
