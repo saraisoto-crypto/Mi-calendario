@@ -1,0 +1,1 @@
+// Este proyecto no incluye pruebas automatizadas.
